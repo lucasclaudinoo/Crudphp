@@ -7,7 +7,7 @@ Fora o CakePHP, foram usados HTML, CSS.
 
 ## Instalação
 
-1. Download [Composer](https://getcomposer.org/doc/00-intro.md) ou atualize `composer self-update`.
+1. Faça download do composer [Composer](https://getcomposer.org/doc/00-intro.md) ou atualize `composer self-update`.
 2. Rode o comando `php composer.phar create-project --prefer-dist cakephp/app [app_name]`.
 
 Se você possui o composer instalado globalmente:
